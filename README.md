@@ -9,6 +9,7 @@ O **Escaneador-de-Redes-** é um script em Batch para Windows que realiza o esca
 - Varredura automática de IPs na rede local.
 - Detecção rápida de hosts ativos via resposta ao ping.
 - Exibição dos endereços IP encontrados diretamente no terminal.
+- Possibilidade de identificação de fabricante, nome do Host e nome do usuário logado.
 - Fácil execução em sistemas Windows, sem necessidade de instalar programas adicionais.
 
 ## Pré-requisitos
