@@ -14,7 +14,7 @@ O **Escaneador-de-Redes-** é um script em Batch para Windows que realiza o esca
 
 ## Pré-requisitos
 
-- Sistema operacional Windows.
+- Sistema operacional Windows (validação a partir do Windows 10/11).
 - Permissões para executar comandos de linha de comando e enviar pings na rede.
 - Script `ScanLocal.bat` disponível no repositório.
 
