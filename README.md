@@ -36,7 +36,9 @@ O **Escaneador-de-Redes-** é um script em Batch para Windows que realiza o esca
 3. Execute o script:
    ```cmd
    ScanLocal.bat
+   ```
    ou
+   ```
    ScanLocal.bat 10.1.1.0
    ```
 
@@ -75,5 +77,5 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ## Autor
 
-Morvalmir (Valnir Morais)
+Morvalmir (Valmir Morais)
 [GitHub](https://github.com/morvalmir)
