@@ -47,7 +47,7 @@ O **Escaneador-de-Redes-** é um script em Batch para Windows que realiza o esca
 ## Exemplo de Saída
 
 ```
-REDE SCAN                                                                                                valmir.morais
+ REDE SCAN                                                                                                valmir.morais
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
    Endereço IPV4      MAC                  Fabricante              Nome do Host            Usuário
