@@ -1,4 +1,4 @@
-# Escaneador-de-Redes-
+# Escaneador de Rede
 
 ## Descrição
 
