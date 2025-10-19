@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Escaneador-de-Redes-** é um script em Batch para Windows que realiza o escaneamento da rede local utilizando requisições ICMP (ping), permitindo detectar quais hosts estão ativos na mesma faixa de IP.
+O **Escaneador de Redes** é um script em Batch para Windows que realiza o escaneamento da rede local utilizando requisições ICMP (ping), permitindo detectar quais hosts estão ativos/alcançáveis na mesma faixa de IP.
 
 ## Funcionalidades
 
@@ -14,8 +14,8 @@ O **Escaneador-de-Redes-** é um script em Batch para Windows que realiza o esca
 
 ## Pré-requisitos
 
-- Sistema operacional Windows (validação a partir do Windows 10/11).
-- Permissões para executar comandos de linha de comando e enviar pings na rede.
+- Sistema operacional Windows (validado a partir do Windows 10/11).
+- Permissões para executar comandos no cmd e enviar pings na rede.
 - Script `ScanLocal.bat` disponível no repositório.
 
 ## Instalação
@@ -43,7 +43,7 @@ O **Escaneador-de-Redes-** é um script em Batch para Windows que realiza o esca
    ScanLocal.bat 10.1.1.0
    ```
 
-4. O script irá escanear a faixa de IP (/24) configurada e mostrar quais hosts estão ativos.
+4. O script irá escanear a faixa de IP (/24) padrão e mostrará quais hosts estão ativos.
 
 ## Exemplo de Saída
 
